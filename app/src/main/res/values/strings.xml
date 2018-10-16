@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">ReforzaTec-2-Android</string>
+    <string name="TextCorreo">Correo</string>
+    <string name="TextPassword">Contraseña</string>
+    <string name="botonIngresar">Ingresar</string>
+    <string name="dialogIngresando">Ingresando........</string>
+    <string name="dialogRegistrando">Registrando........</string>
+    <string name="botonRegistrar">Registrar</string>
+    <string name="botonReset">He olvidado mi contraseña</string>
+    <string name="mensajeBienvenida">BIENVENIDO</string>
+    <string name="mensajeError">Ocurrió un error</string>
+    <string name="colisionCorreo">Cuenta registrada anteriormente</string>
+    <string name="alertValidacionContraseña">Ingrese nuevamente la contraseña</string>
+    <string name="alertContraseñasDiferentes">Las contraseñas no son identicas</string>
+    <string name="alertFaltaCorreoReset">No se ha ingresado ninguna correo</string>
+    <string name="alertNotificacionMensajeReset">Se ha enviado un mensaje a tu correo</string>
+    <string name="alertErrorReset">Ha sucedido un error al intentar restablecer la contraseña</string>
+    <string name="camposObligatorios">Faltan por llenar campos obligatorios</string>
 </resources>
